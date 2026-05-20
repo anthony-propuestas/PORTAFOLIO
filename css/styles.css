@@ -306,7 +306,7 @@ section {
 /* --- Big name --- */
 .hero-name {
   font-family: var(--ff-head);
-  font-size: clamp(3.2rem, 9vw, 7.5rem);
+  font-size: clamp(2rem, 4.5vw, 3.5rem);
   font-weight: 800;
   line-height: .95;
   letter-spacing: -.05em;
